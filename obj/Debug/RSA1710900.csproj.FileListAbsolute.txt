@@ -1,0 +1,11 @@
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\bin\Debug\RSA1710900.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\bin\Debug\RSA1710900.exe
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\bin\Debug\RSA1710900.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\obj\Debug\RSA1710900.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\obj\Debug\RSA1710900.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\obj\Debug\RSA1710900.RSACryptosystem.resources
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\obj\Debug\RSA1710900.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\obj\Debug\RSA1710900.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\obj\Debug\RSA1710900.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\obj\Debug\RSA1710900.exe
+C:\Users\ASUS\OneDrive\Máy tính\MaNguon\RSA1710900\obj\Debug\RSA1710900.pdb
